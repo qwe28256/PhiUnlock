@@ -33,4 +33,4 @@ Options:
    ```
 
 ## Thanks
-[PhiCrypto](https://github.com/iyxddw/PhiCrypto/) by [@7aGiven](https://github.com/iyxddw/)
+[PhiCrypto](https://github.com/iyxddw/PhiCrypto/) by [@iyxddw](https://github.com/iyxddw/)
