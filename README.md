@@ -35,7 +35,7 @@ Unlock your Phigros PHi !!!!!!!!!!!!!!!!! (manbo?>)
  |_|     |_| |_| |_|  \___/  |_| |_| |_|  \___/   \___| |_|\_\
                                                               
 ==============================
-Usage: jm [options]
+Usage: 感谢jm汉化组（Doge） [options]
 
 Options:
   -V, --version        output the version number
